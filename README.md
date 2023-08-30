@@ -16,7 +16,7 @@ Linux basic bash scripting and system research.
    
 ## Chapter I
 
-![linux_monitoring_v1](misc/images/shell.jpg)
+![linux_monitoring_v1](images/shell.jpg)
 
 ### Bash
 
